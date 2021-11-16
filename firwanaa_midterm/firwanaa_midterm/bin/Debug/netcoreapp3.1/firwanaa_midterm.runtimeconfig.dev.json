@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\QQ\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\QQ\\.nuget\\packages"
+    ]
+  }
+}
