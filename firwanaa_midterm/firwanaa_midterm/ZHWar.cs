@@ -4,7 +4,8 @@
  * @id: ____________               *
  * MidTerm Project                 * 
  * Zombies Vs Humans               *
- * Zombie Human War tools          * 
+ * Zombie Human War tools          *
+ * Sorry for the tyoos :(          *
  ***********************************/
 
 using System;
@@ -369,11 +370,11 @@ namespace firwanaa_midterm
 
 /**************************************************************************************************************
   * 
-  * Failed attempt to reflect the simulation visually my creating new matrix each iteration ""update_matrix()", 
+  * Failed attempt to reflect the simulation visually by creating new matrix each iteration ""update_matrix()", 
   * and passing the new matrix to the second method "war_simulation()" along with a Grid.
   * And need to modify the parameters of start_war() method to accept myGrid as parameter.
   * The result was the last matrix that contains only zombies, however, all styles and colors removed, so 
-  * i stopped here and commented both function.
+  * i stopped here and commented out both function.
   * 
   * ***********************************************************************************************************
   * Upgrade matrix  
